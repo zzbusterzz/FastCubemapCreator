@@ -2,7 +2,7 @@
 This Script is to help generate cubemap for the scene in unity.
 
 # Note: 
-I'm not the original author of the script. I came across this script and I have uploaded it here as for my reference for future projects[Source]. You are free to upload and use it as necessary.
+I'm not the original author of the script. I came across this script and I have uploaded it here as for my reference for future projects. You are free to upload and use it as necessary.
 
 # Usage:
 1)Put the script in the Editor Folder of your unity project.
